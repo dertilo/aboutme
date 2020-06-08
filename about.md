@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: About
 permalink: /about/
 ---
 
@@ -17,6 +17,7 @@ permalink: /about/
 
 
 ### Experience
+
 | when | what |
 | --- | --- |
 | 02/2019 – 08/2020	| Research Assistant at Quality and Usability Lab - Technical University of Berlin
